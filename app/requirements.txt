@@ -1,0 +1,5 @@
+streamlit==1.46.1
+python-dotenv==1.1.1
+boto3==1.39.5
+pdf2image==1.17.0
+pillow==7.1.0
